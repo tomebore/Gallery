@@ -1,9 +1,9 @@
 Это учебный проект Галереи
 
 Для работа проекты обязательно:
-Python3.6 +
-Flask==1.1.2
-openpyxl==3.0.3
+Python3.6 +    #done
+Flask==1.1.2   #done 
+openpyxl==3.0.3  # done 
 
 Весь список смотрите в requirements.txt
 
